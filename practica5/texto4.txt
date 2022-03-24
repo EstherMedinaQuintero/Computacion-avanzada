@@ -1,0 +1,14 @@
+Las fechas exactas incluidas en el texto no son verídicas.
+
+Guido van Rossum ideó el lenguaje Python a finales de los 80 (20/11/1980) y comenzó a
+implementarlo en diciembre de 1989 (1989/12/01).
+El 10/02/1991 publicó la primera versión píblica, la versión 0.9.0. La versión 1.0 se pu-
+blicó el 1994/01/01.
+La versión 2.0 se publicó el 02/10/2000 y la versión 3.0 se publicó en diciembre de 2008.
+
+Hasta 2018, el desarrollo de Python estaba dirigido personalmente por Guido van Rossum
+y bajo el paraguas de la fundación Python Software Foundation.
+En 2018/07/01 de 2018 Guido van Rossum anunció que dejaría de dirigir el desarrollo
+de Python. Desde 2019 el desarrollo de Python está dirigido por un consejo de direc-
+ción de cinco miembros elegidos entre los desarrolladores de Python y que se renovará
+anualmente.
